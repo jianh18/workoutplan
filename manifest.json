@@ -1,10 +1,10 @@
 {
-  "name": "Training Checklist",
-  "short_name": "Training",
+  "name": "训练 · Training",
+  "short_name": "训练",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#07111f",
-  "theme_color": "#0f172a",
+  "background_color": "#f7f8fa",
+  "theme_color": "#f7f8fa",
   "icons": [
     {
       "src": "icon-192.png",
